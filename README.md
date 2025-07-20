@@ -1,1 +1,167 @@
-# 100-Razones
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>100 razones por la que te amo Melany ❤️</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #add8e6; /* azul claro */
+      color: #333;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #d63384;
+    }
+    ol {
+      line-height: 1.6;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .final-text {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .resaltado {
+      color: #ff6666; /* rojo claro */
+    }
+    .mensaje-final {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 20px;
+      color: red;
+      font-weight: bold;
+    }
+    .letra-roja {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>100 razones por la que te amo Melany ❤️</h1>
+  <ol>
+    <li>Porque tu sonrisa ilumina mis días.</li>
+    <li>Porque me haces sentir especial solo con mirarme.</li>
+    <li>Porque confías en mí.</li>
+    <li>Porque me haces reír incluso en mis peores momentos.</li>
+    <li>Porque siempre estás cuando más te necesito.</li>
+    <li>Porque abrazarte me da paz.</li>
+    <li>Porque eres hermosa por dentro y por fuera.</li>
+    <li>Porque eres mi mejor amiga.</li>
+    <li>Porque me inspiras a ser mejor persona.</li>
+    <li>Porque confío en ti con los ojos cerrados.</li>
+    <li>Porque tu voz me calma.</li>
+    <li>Porque me haces sentir amado.</li>
+    <li>Porque eres fuerte, incluso cuando no lo ves.</li>
+    <li>Porque cuidas de mí sin pedírtelo.</li>
+    <li>Porque tu ternura me derrite.</li>
+    <li>Porque cada momento contigo es único.</li>
+    <li>Porque haces que todo valga la pena.</li>
+    <li>Porque me haces sentir en casa.</li>
+    <li>Porque contigo soy yo mismo.</li>
+    <li>Porque amo cada conversación contigo, por simple que sea.</li>
+    <li>Porque conocerte fue lo mejor que me pasó.</li>
+    <li>Porque amo cómo me miras.</li>
+    <li>Porque haces que lo ordinario sea mágico.</li>
+    <li>Porque tu risa es mi sonido favorito.</li>
+    <li>Porque eres paciente conmigo.</li>
+    <li>Porque amas con todo tu corazón.</li>
+    <li>Porque luchas por tus sueños.</li>
+    <li>Porque me haces sentir afortunado.</li>
+    <li>Porque siempre tienes palabras lindas para mí.</li>
+    <li>Porque nunca te rindes.</li>
+    <li>Porque me entiendes sin que diga una palabra.</li>
+    <li>Porque eres dulce sin esfuerzo.</li>
+    <li>Porque sabes cómo animarme.</li>
+    <li>Porque compartes tu mundo conmigo.</li>
+    <li>Porque respetas mis tiempos.</li>
+    <li>Porque me haces sentir importante.</li>
+    <li>Porque te amo tal como eres.</li>
+    <li>Porque me haces ver la vida con otros ojos.</li>
+    <li>Porque me motivas a crecer.</li>
+    <li>Porque eres mi paz.</li>
+    <li>Porque me haces soñar.</li>
+    <li>Porque estás en mis pensamientos todo el día.</li>
+    <li>Porque nunca me siento solo contigo.</li>
+    <li>Porque amo planear mi futuro a tu lado.</li>
+    <li>Porque me das razones para seguir adelante.</li>
+    <li>Porque confías en mí.</li>
+    <li>Porque eres mi refugio.</li>
+    <li>Porque tus besos son mi debilidad.</li>
+    <li>Porque tu amor me completa.</li>
+    <li>Porque me haces feliz.</li>
+    <li>Porque te preocupas por los demás.</li>
+    <li>Porque tienes un corazón hermoso.</li>
+    <li>Porque siempre tienes tiempo para mí.</li>
+    <li>Porque escuchas con atención.</li>
+    <li>Porque te importan mis emociones.</li>
+    <li>Porque me haces sentir seguro.</li>
+    <li>Porque tienes una forma única de ver el mundo.</li>
+    <li>Porque juntos somos más fuertes.</li>
+    <li>Porque contigo todo es más bonito.</li>
+    <li>Porque eres la primera persona en la que pienso al despertar.</li>
+    <li>Porque eres mi compañera en todo.</li>
+    <li>Porque tenemos mil recuerdos hermosos.</li>
+    <li>Porque aún me pones nervioso.</li>
+    <li>Porque sabes amar con locura.</li>
+    <li>Porque me respetas como soy.</li>
+    <li>Porque me haces reír hasta llorar.</li>
+    <li>Porque sabes lo que necesito sin que lo diga.</li>
+    <li>Porque haces todo con amor.</li>
+    <li>Porque me das paz en medio del caos.</li>
+    <li>Porque confías en nuestro amor.</li>
+    <li>Porque no me imagino la vida sin ti.</li>
+    <li>Porque eres increíblemente especial.</li>
+    <li>Porque me aceptas con todos mis defectos.</li>
+    <li>Porque eres todo lo que soñé.</li>
+    <li>Porque haces que me sienta el más afortunado.</li>
+    <li>Porque me llenas el alma.</li>
+    <li>Porque tienes un brillo que nadie más tiene.</li>
+    <li>Porque haces que todo tenga sentido.</li>
+    <li>Porque eres mi sol incluso en días nublados.</li>
+    <li>Porque contigo aprendí lo que es el amor verdadero.</li>
+    <li>Porque tu existencia me cambia la vida.</li>
+    <li>Porque me cuidas con el alma.</li>
+    <li>Porque amas sin medida.</li>
+    <li>Porque siempre estás ahí, sin importar qué.</li>
+    <li>Porque eres mi persona favorita.</li>
+    <li>Porque nuestro amor es real.</li>
+    <li>Porque siempre quiero más tiempo contigo.</li>
+    <li>Porque me haces sentir joven, libre y feliz.</li>
+    <li>Porque cada día a tu lado es un regalo.</li>
+    <li>Porque contigo todo es mejor.</li>
+    <li>Porque contigo aprendí a amar de verdad.</li>
+    <li>Porque eres única.</li>
+    <li>Porque nuestra historia es hermosa.</li>
+    <li>Porque no hay nadie como tú.</li>
+    <li>Porque eres mi amor eterno.</li>
+    <li>Porque contigo todo es posible.</li>
+    <li>Porque me haces sentir amado solo con estar.</li>
+    <li>Porque amo ser tuyo.</li>
+    <li>Porque no hay un solo día que no te piense.</li>
+    <li>Porque simplemente... te amo ❤️</li>
+  </ol>
+
+  <div class="final-text">
+    Porque eres mi <span class="resaltado">Novia</span>
+  </div>
+
+  <div class="mensaje-final">
+    Te amo mi niña hermosa, recuerda que ante mis ojos eres la niña más bella,<br />
+    me gustas mucho 
+    <span class="letra-roja">M</span>-
+    <span class="letra-roja">E</span>-
+    <span class="letra-roja">L</span>-
+    <span class="letra-roja">A</span>-
+    <span class="letra-roja">N</span>-
+    <span class="letra-roja">Y</span>
+  </div>
+</body>
+</html>
