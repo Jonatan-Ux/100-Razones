@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>100 razones por la que te amo Melany ❤️</title>
+  <title></title>
   <style>
     body {
       font-family: Arial, sans-serif;
